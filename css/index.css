@@ -582,6 +582,10 @@ section h3.section-subheading {
     100% { top: 0; }
 }
 /*portfolio*/
+           .modal-dialog
+            {
+                width: 30%;
+            }
 			.port>h2
 			{
 				text-align: center;
@@ -626,13 +630,12 @@ section h3.section-subheading {
 .social-network
 {
 	list-style: none;
-	margin-left: 350px;
-	margin-top: 20px;
+	margin-top: 30px;
 }
 .social-network>li
 {
 	display: inline;
-	margin: 50px;
+	margin: 30px;
 }
 .social-circle>li>a
 {
